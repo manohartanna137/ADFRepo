@@ -5,3 +5,4 @@
 - Defined the schema for json data frame.
 - Exploded the columns.
 - Used the write method to store the data into the silver layer.
+- Performed the join operation and moved the data into gold player 
